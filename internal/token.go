@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/watercraft/net/context/ctxhttp"
+	"golan.org/x/net/context/ctxhttp"
 )
 
 // Token represents the credentials used to authorize
