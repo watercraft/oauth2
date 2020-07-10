@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"cloud.google.com/go/compute/metadata"
-	"watercraft/oauth2"
-	"watercraft/oauth2/jwt"
+	"github.com/watercraft/oauth2"
+	"github.com/watercraft/oauth2/jwt"
 )
 
 // Endpoint is Google's OAuth 2.0 endpoint.

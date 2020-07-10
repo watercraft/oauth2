@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package slack provides constants for using OAuth2 to access Slack.
-package slack // import "watercraft/oauth2/slack"
+package slack // import "github.com/watercraft/oauth2/slack"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Slack's OAuth 2.0 endpoint.

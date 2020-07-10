@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package mailchimp provides constants for using OAuth2 to access MailChimp.
-package mailchimp // import "watercraft/oauth2/mailchimp"
+package mailchimp // import "github.com/watercraft/oauth2/mailchimp"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is MailChimp's OAuth 2.0 endpoint.

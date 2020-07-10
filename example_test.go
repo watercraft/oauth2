@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 func ExampleConfig() {

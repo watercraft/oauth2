@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"watercraft/oauth2/internal"
+	"github.com/watercraft/oauth2/internal"
 )
 
 type mockTransport struct {

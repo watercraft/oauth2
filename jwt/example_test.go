@@ -7,7 +7,7 @@ package jwt_test
 import (
 	"context"
 
-	"watercraft/oauth2/jwt"
+	"github.com/watercraft/oauth2/jwt"
 )
 
 func ExampleJWTConfig() {

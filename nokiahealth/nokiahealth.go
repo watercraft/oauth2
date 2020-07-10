@@ -6,7 +6,7 @@
 package nokiahealth
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Nokia Health Mate's OAuth 2.0 endpoint.

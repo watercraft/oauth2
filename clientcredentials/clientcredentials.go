@@ -11,7 +11,7 @@
 // server.
 //
 // See https://tools.ietf.org/html/rfc6749#section-4.4
-package clientcredentials // import "watercraft/oauth2/clientcredentials"
+package clientcredentials // import "github.com/watercraft/oauth2/clientcredentials"
 
 import (
 	"context"
@@ -20,8 +20,8 @@ import (
 	"net/url"
 	"strings"
 
-	"watercraft/oauth2"
-	"watercraft/oauth2/internal"
+	"github.com/watercraft/oauth2"
+	"github.com/watercraft/oauth2/internal"
 )
 
 // Config describes a 2-legged OAuth2 flow, with both the

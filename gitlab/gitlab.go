@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package gitlab provides constants for using OAuth2 to access GitLab.
-package gitlab // import "watercraft/oauth2/gitlab"
+package gitlab // import "github.com/watercraft/oauth2/gitlab"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is GitLab's OAuth 2.0 endpoint.

@@ -15,7 +15,7 @@ import (
 	"runtime"
 
 	"cloud.google.com/go/compute/metadata"
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Credentials holds Google credentials, including "Application Default Credentials".

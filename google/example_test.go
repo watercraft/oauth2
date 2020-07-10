@@ -11,9 +11,9 @@ import (
 	"log"
 	"net/http"
 
-	"watercraft/oauth2"
-	"watercraft/oauth2/google"
-	"watercraft/oauth2/jwt"
+	"github.com/watercraft/oauth2"
+	"github.com/watercraft/oauth2/google"
+	"github.com/watercraft/oauth2/jwt"
 )
 
 func ExampleDefaultClient() {

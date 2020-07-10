@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"watercraft/oauth2/internal"
+	"github.com/watercraft/oauth2/internal"
 )
 
 // expiryDelta determines how earlier a token should be considered

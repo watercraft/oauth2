@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // ClaimSet contains information about the JWT signature according

@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"watercraft/net/context/ctxhttp"
+	"github.com/watercraft/net/context/ctxhttp"
 )
 
 // Token represents the credentials used to authorize
@@ -103,7 +103,7 @@ func (e *expirationTime) UnmarshalJSON(b []byte) error {
 // Endpoint.AuthStyle.
 func RegisterBrokenAuthHeaderProvider(tokenURL string) {}
 
-// AuthStyle is a copy of the watercraft/oauth2 package's AuthStyle type.
+// AuthStyle is a copy of the github.com/watercraft/oauth2 package's AuthStyle type.
 type AuthStyle int
 
 const (

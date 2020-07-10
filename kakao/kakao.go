@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package kakao provides constants for using OAuth2 to access Kakao.
-package kakao // import "watercraft/oauth2/kakao"
+package kakao // import "github.com/watercraft/oauth2/kakao"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Kakao's OAuth 2.0 endpoint.

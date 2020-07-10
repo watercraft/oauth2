@@ -6,7 +6,7 @@
 package bitbucket
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Bitbucket's OAuth 2.0 endpoint.

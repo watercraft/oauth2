@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package foursquare provides constants for using OAuth2 to access Foursquare.
-package foursquare // import "watercraft/oauth2/foursquare"
+package foursquare // import "github.com/watercraft/oauth2/foursquare"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Foursquare's OAuth 2.0 endpoint.

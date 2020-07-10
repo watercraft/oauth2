@@ -3,14 +3,14 @@
 // license that can be found in the LICENSE file.
 
 // Package hipchat provides constants for using OAuth2 to access HipChat.
-package hipchat // import "watercraft/oauth2/hipchat"
+package hipchat // import "github.com/watercraft/oauth2/hipchat"
 
 import (
 	"encoding/json"
 	"errors"
 
-	"watercraft/oauth2"
-	"watercraft/oauth2/clientcredentials"
+	"github.com/watercraft/oauth2"
+	"github.com/watercraft/oauth2/clientcredentials"
 )
 
 // Endpoint is HipChat's OAuth 2.0 endpoint.

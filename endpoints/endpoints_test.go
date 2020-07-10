@@ -7,7 +7,7 @@ package endpoints
 import (
 	"testing"
 
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 func TestAWSCognitoEndpoint(t *testing.T) {

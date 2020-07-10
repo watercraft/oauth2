@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 type sdkCredentials struct {

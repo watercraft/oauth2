@@ -15,8 +15,8 @@ import (
 	"strings"
 	"testing"
 
-	"watercraft/oauth2"
-	"watercraft/oauth2/jws"
+	"github.com/watercraft/oauth2"
+	"github.com/watercraft/oauth2/jws"
 )
 
 var dummyPrivateKey = []byte(`-----BEGIN RSA PRIVATE KEY-----

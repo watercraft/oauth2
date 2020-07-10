@@ -19,9 +19,9 @@ import (
 	"strings"
 	"time"
 
-	"watercraft/oauth2"
-	"watercraft/oauth2/internal"
-	"watercraft/oauth2/jws"
+	"github.com/watercraft/oauth2"
+	"github.com/watercraft/oauth2/internal"
+	"github.com/watercraft/oauth2/jws"
 )
 
 var (

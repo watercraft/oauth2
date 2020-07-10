@@ -8,7 +8,7 @@ package endpoints
 import (
 	"strings"
 
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Amazon is the endpoint for Amazon.

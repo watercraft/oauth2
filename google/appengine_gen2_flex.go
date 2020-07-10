@@ -13,7 +13,7 @@ import (
 	"log"
 	"sync"
 
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 var logOnce sync.Once // only spam about deprecation once

@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package yandex provides constants for using OAuth2 to access Yandex APIs.
-package yandex // import "watercraft/oauth2/yandex"
+package yandex // import "github.com/watercraft/oauth2/yandex"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is the Yandex OAuth 2.0 endpoint.

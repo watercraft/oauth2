@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"watercraft/oauth2/jws"
+	"github.com/watercraft/oauth2/jws"
 )
 
 func TestJWTAccessTokenSourceFromJSON(t *testing.T) {

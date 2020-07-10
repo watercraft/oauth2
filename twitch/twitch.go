@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package twitch provides constants for using OAuth2 to access Twitch.
-package twitch // import "watercraft/oauth2/twitch"
+package twitch // import "github.com/watercraft/oauth2/twitch"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Twitch's OAuth 2.0 endpoint.

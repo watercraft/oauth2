@@ -3,10 +3,10 @@
 // license that can be found in the LICENSE file.
 
 // Package heroku provides constants for using OAuth2 to access Heroku.
-package heroku // import "watercraft/oauth2/heroku"
+package heroku // import "github.com/watercraft/oauth2/heroku"
 
 import (
-	"watercraft/oauth2"
+	"github.com/watercraft/oauth2"
 )
 
 // Endpoint is Heroku's OAuth 2.0 endpoint.
