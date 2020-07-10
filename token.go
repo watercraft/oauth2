@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"golang.org/x/oauth2/internal"
+	"watercraft/oauth2/internal"
 )
 
 // expiryDelta determines how earlier a token should be considered

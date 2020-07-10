@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/oauth2"
+	"watercraft/oauth2"
 	"google.golang.org/appengine"
 )
 

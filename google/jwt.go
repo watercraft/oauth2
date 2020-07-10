@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"time"
 
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/internal"
-	"golang.org/x/oauth2/jws"
+	"watercraft/oauth2"
+	"watercraft/oauth2/internal"
+	"watercraft/oauth2/jws"
 )
 
 // JWTAccessTokenSourceFromJSON uses a Google Developers service account JSON

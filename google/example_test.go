@@ -11,9 +11,9 @@ import (
 	"log"
 	"net/http"
 
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/google"
-	"golang.org/x/oauth2/jwt"
+	"watercraft/oauth2"
+	"watercraft/oauth2/google"
+	"watercraft/oauth2/jwt"
 )
 
 func ExampleDefaultClient() {
