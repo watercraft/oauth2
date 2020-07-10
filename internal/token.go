@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"golan.org/x/net/context/ctxhttp"
+	"golang.org/x/net/context/ctxhttp"
 )
 
 // Token represents the credentials used to authorize
